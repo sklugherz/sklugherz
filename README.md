@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sklugherz
 - 👀 I’m interested...
 - 🌱 I’m currently studying at Colorado State University, working towards a bachelors in Computer Science.
-- 💞️ I’m looking to collaborate on project that bring a challenge and can enhance my core competency.
+- 💞️ I’m looking to collaborate on project that bring a challenge and can enhance my core competency skills.
 - 📫 You can reach me at scklugherz@gmail.com
 
 <!---
