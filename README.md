@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sklugherz..
+- 👋 Hi, I’m @sklugherz.
 - 🌱 I’m currently studying at Colorado State University, working towards a bachelors in Computer Science.
 - 📫 You can reach me at scklugherz@gmail.com
 
