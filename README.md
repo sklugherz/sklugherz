@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Stehpen Klugherz.
+- 👋 Hi, my name is Stephen Klugherz.
 - 📫 You can reach me at scklugherz@gmail.com
 
 <!---
