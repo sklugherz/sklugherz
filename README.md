@@ -10,7 +10,7 @@ I'm a software developer based in California. I enjoy finding cool open-source p
 <p align="center">
   <a href="https://github.com/sklugherz"><img src="https://img.shields.io/badge/@sklugherz-black?logo=GitHub&logoColor=white""></a>
   <a href="https://www.linkedin.com/in/stephen-klugherz-778101233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-green"></a>
+  <a href="https://sklugherz.github.io" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-green"></a>
 </p>
 
 <p align="center">
