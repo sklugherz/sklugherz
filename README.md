@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in California. I enjoy finding cool open-source projects and partcipating in CTFs. Slightly obsessed with Home Automation and Home Labs. You can contact me on LinkedIn. Feel free to tweet me any time. Also check out my protfolio website for more about me.
+I'm a software developer based in California. I enjoy finding cool open-source projects and partcipating in CTFs. I'm interested in cybersecuirty and indie game development. You can contact me on LinkedIn. Feel free to tweet me any time. Also check out my protfolio website for more about me.
 
 &nbsp;
 
