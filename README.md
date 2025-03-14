@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in the US. I enjoy finding cool open-source projects and partcipating in CTFs. I'm interested in cybersecuirty and game development. You can contact me on LinkedIn. Also check out my protfolio website for more about me.
+I'm a software developer based in the US. I enjoy finding cool open-source projects and partcipating in CTFs. I'm interested in cybersecuirty and game development. You can contact me on LinkedIn. Also check out my portfolio website for more about me.
 &nbsp;
 
 
