@@ -21,7 +21,7 @@ I'm a software developer based in the US. I enjoy finding cool open-source proje
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/profile%20updated-febuary%202025-red">
+  <img src="https://img.shields.io/badge/profile%20updated-march%202025-red">
 </p>
 
 
